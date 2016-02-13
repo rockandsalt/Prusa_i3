@@ -1,1 +1,10 @@
 *.lck
+
+
+
+#ignore oldversion Folder
+
+OldVersions/
+rod/OldVersions/
+3d_printer_part/OldVersions/
+*.htm
